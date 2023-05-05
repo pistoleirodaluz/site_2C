@@ -1,5 +1,8 @@
 .cabeçalho{
-    background-color: rgb(255, 51, 0);
+    background-color :  rgb(255, 51, 0);
 
 }
 
+background-color:
+    linear-gradient(to bottom, transparent 50%, white 50%, white 100%),
+    linear-gradient(to left, white 0%, blue 100%);
