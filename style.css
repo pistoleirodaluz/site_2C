@@ -1,6 +1,10 @@
 .cabeçalho{
     background: linear-gradient(to bottom,green,red);
     color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 
 }
 .cabeçalho-titulo{
