@@ -22,3 +22,6 @@
     .INTRODUCAO{
         font-size: medium;
     }
+    .APRESENTACAOINTRUCAO{
+        background: linear-gradient(to bottom,red,green);
+    }
