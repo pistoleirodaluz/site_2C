@@ -25,4 +25,6 @@
     .APRESENTACAOINTRUCAO{
         background: linear-gradient(to bottom,red,green);
     }
-    
+        .apresentacao_trabalho{
+            background-color: red;
+        }
