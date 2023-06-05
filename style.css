@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .cabeçalho{
     background: linear-gradient(to bottom,green,red);
     color: black;
