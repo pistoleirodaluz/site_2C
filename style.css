@@ -32,3 +32,6 @@
         .apresentacao_trabalho{
             background-color: red;
         }
+.semanacor{
+    background: linear-gradient(to bottom,green,red);
+}
