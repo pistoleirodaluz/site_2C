@@ -27,11 +27,11 @@
         font-size: medium;
     }
     .APRESENTACAOINTRUCAO{
-        background: linear-gradient(to bottom,red,green);
+        background-color: red;
     }
         .apresentacao_trabalho{
             background-color: red;
         }
 .semanacor{
-    background: linear-gradient(to bottom,green,red);
+    background: linear-gradient(to bottom,red,green);
 }
