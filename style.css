@@ -3,7 +3,7 @@
     padding: 0;
 }
 .cabeçalho{
-    background: linear-gradient(to bottom lemonchiffon, lemonchiffon);
+    background: linear-gradient(to bottom white, lemonchiffon);
     color: black;
     display: flex;
     justify-content: space-around;
