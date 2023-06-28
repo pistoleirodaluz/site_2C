@@ -3,7 +3,7 @@
     padding: 0;
 }
 .cabeçalho{
-    background: linear-gradient(to bottom,green,red);
+    background: linear-gradient(to bottom red, lemonchiffon);
     color: black;
     display: flex;
     justify-content: space-around;
@@ -21,17 +21,17 @@
     width: 15%;
 }
     .titulo_apresentacao_trabalho{
-        background: linear-gradient(to bottom,green,red);
+        background: linear-gradient(to bottom,lemonchiffon,lemonchiffon);
     }
     .INTRODUCAO{
         font-size: medium;
     }
     .APRESENTACAOINTRUCAO{
-        background-color: red;
+        background-color: lemonchiffon;
     }
         .apresentacao_trabalho{
-            background-color: red;
+            background-color: lemonchiffon;
         }
 .semanacor{
-    background: linear-gradient(to bottom,red,green);
+    background: linear-gradient(to bottom,lemonchiffon, red);
 }
