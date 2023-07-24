@@ -11,8 +11,8 @@
     padding: 24px 0;
 
 }
-.cabeçalho-titulo{
-    font-size: 70px;
+.cabeçalho_titulo{
+    font-size: 50px;
 }
 .titulo_apresentacao_trabalho{
     font-size: 30px;
@@ -44,4 +44,7 @@
 }
 body{
     background-image: linear-gradient(lemonchiffon, red);
+}
+.imagempimenta2{
+    width: 19%;
 }
