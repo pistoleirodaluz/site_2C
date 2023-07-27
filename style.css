@@ -43,6 +43,7 @@
     font-size: 19px;
 }
 body{
+    margin: 12px;
     background-image: linear-gradient(lemonchiffon, red);
 }
 .imagempimenta2{
