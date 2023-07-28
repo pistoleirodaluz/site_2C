@@ -36,8 +36,7 @@
     background: linear-gradient(to bottom,lemonchiffon, );
 }
 .cabeçalhogeral{
-    background-color: rgba(255, 57, 7, 0.904);
-}
+    background-image:linear-gradient(red,lemonchiffon) ;
 .CABECALHOLISTA{
     margin: 25 0;
     font-size: 19px;
